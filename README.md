@@ -12,8 +12,12 @@ $ whoami
 00000000@@@@@@@@@@@00000000 CPU: dontThinkAboutIt @ 0Mhz
 000000000000000000000000000 GPU: dontLookAnything 0, letmeavoidreal 1X
 000000000000000000000000000 Memory: -1MiB / 0MiB
-00000000@@@@@@@@@@@00000000
-00000000@@@@@@@@@@@00000000
+00000000@@@@@@@@@@@00000000 -----------------
+00000000@@@@@@@@@@@00000000 
+```
+
+```
+[Warning] Can't keep up! maybe he has a thrown life, or he just wants give up?
 ```
 
 ```Batch
@@ -87,4 +91,12 @@ class myLife:
     self.think = "뭔가 탭질하는게 커피스크립트 같아서 짜증남"
 
 whoami = myLife()
+```
+
+```nodejs
+const me = require("thinks")
+
+var since = 2017
+var why = "카톡봇과 디코봇"
+var think = "1 + '1' = '11'"
 ```
